@@ -8,7 +8,7 @@ import numpy as np
 import bcolz
 import pickle
 #import pandas as pd
-glove_path = "E:/Acads - Stanford/CS229/Project"
+glove_path = "Path to downloaded embedding file"
 words = []
 idx = 0
 word2idx = {}
