@@ -9,4 +9,4 @@ Run python Glove vector.py
 
 
 Change the directory for the glove embedding and path to the data in the Siamese Model.py.\
-Train the model using : python Siamese Model.py\
+Train the model using : python Siamese Model.py
